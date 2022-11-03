@@ -1,0 +1,130 @@
+* {
+    box-sizing: border box;
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width:100vw;
+    height:400vh;
+    background-color: #76BED0;
+}
+
+
+.cAndc {
+    font-size: 70px;
+    text-decoration: underline;
+    font-family:'impact';
+}
+
+
+
+
+
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100vw;
+    height: 10vh;
+    color: black;
+    font-size: 40px; 
+    font-family: 'impact';
+    font-style: unset;
+    font-weight: 50;
+
+}
+
+.box-one {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100vw;
+    height: 50vh;
+    color: whitesmoke;
+    font-size: 20px; 
+    background-color: #F55D3E; 
+    font-family: "franklin gothic";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-two {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100vw;
+    height: 50vh;
+    color: #001021;
+    font-size: 20px; 
+    background-color: #F7CB15; 
+    font-family: "franklin gothic";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+
+.box-three {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100vw;
+    height: 50vh;
+    color: whitesmoke;
+    font-size: 20px; 
+    background-color: #1B5299; 
+    font-family: "franklin gothic";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-four {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100vw;
+    height: 50vh;
+    color: black;
+    font-size: 20px; 
+    background-color: #5FAD56; 
+    font-family: "franklin gothic";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+.box-five {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    width: 100vw;
+    height: 50vh;
+    color: whitesmoke;
+    font-size: 20px; 
+    background-color: #941B0C; 
+    font-family: "franklin gothic";
+    font-style: unset;
+    font-weight: 50;
+
+
+} 
+
+
+
+
+
+
+
